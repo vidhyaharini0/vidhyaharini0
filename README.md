@@ -20,7 +20,7 @@ I enjoy building intelligent and secure software systems by combining **Artifici
 
 ## Academic Projects
 
-### 🔹 DEICMS – Digital Evidence & Investigation Chain Management System
+### 🔹 [DEICMS-SS – Digital Evidence & Investigation Chain Management System](https://github.com/vidhyaharini0/DEICMS-SS)
 A secure digital forensics platform implementing cryptographic integrity verification, role-based access control, AI-assisted risk analysis, anomaly detection, and chain-of-custody validation using Flask and Python.
 
 ### 🔹 Brand Reputation Analysis using Transformer Models
