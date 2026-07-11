@@ -20,17 +20,17 @@ I enjoy designing intelligent systems that combine data-driven decision making w
 
 ## 🚀 Academic Projects
 
-### 🔹 [DEICMS-SS – Digital Evidence & Investigation Chain Management System](https://github.com/vidhyaharini0/DEICMS-SS)
-A secure digital forensics platform implementing cryptographic integrity verification, role-based access control, AI-assisted risk analysis, anomaly detection, and chain-of-custody validation using Flask and Python.
+### 🔐 [DEICMS-SS – Digital Evidence & Investigation Chain Management System](https://github.com/vidhyaharini0/DEICMS-SS)
 
-### 🔹 Brand Reputation Analysis using Transformer Models
-Research internship focused on sentiment and emotion analysis using Transformer-based NLP models for brand reputation monitoring.
+A secure digital forensics platform implementing cryptographic integrity verification, role-based access control, AI-assisted risk analysis, chain-of-custody validation, and evidence lifecycle management using **Python** and **Flask**.
 
-### 🔹 Database Performance Benchmarking
-Comparative evaluation of relational and NoSQL databases through benchmarking, performance analysis, and workload optimization.
+### 🧠 [Brand Reputation Analysis using Transformer-Based NLP](https://github.com/vidhyaharini0/Brand-Reputation-Analysis)
 
-### 🔹 Papa's Pizzeria
-A full-stack restaurant ordering and management system developed using modern web technologies.
+An AI-driven research project that applies **Transformer-based Natural Language Processing** to large-scale Twitter data for sentiment analysis, emotion detection, and brand reputation assessment through interactive visualizations.
+
+### 🍕 [Papa's Pizzeria](https://github.com/vidhyaharini0/Papas-Pizzeria)
+
+A Dockerized full-stack restaurant ordering and management web application featuring user authentication, shopping cart functionality, menu management, order processing, and responsive user interfaces using **PHP**, **MySQL**, **JavaScript**, **HTML**, and **CSS**.
 
 ---
 
