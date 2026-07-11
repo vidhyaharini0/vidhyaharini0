@@ -1,12 +1,12 @@
 # Hi, I'm Vidhya Harini Vijayarajan Sangeetha👋
 
-🎓 Final-year Data Analysis student at the **University of Messina, Italy**.
+Final-year Data Analysis student at the **University of Messina, Italy**.
 
 I enjoy building intelligent and secure software systems by combining **Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analytics, and Secure Software Development**. My academic projects and research focus on solving real-world problems through data-driven approaches and modern software engineering practices.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Artificial Intelligence
 - Machine Learning
@@ -18,7 +18,7 @@ I enjoy building intelligent and secure software systems by combining **Artifici
 
 ---
 
-## 🚀 Featured Projects
+## Academic Projects
 
 ### 🔹 DEICMS – Digital Evidence & Investigation Chain Management System
 A secure digital forensics platform implementing cryptographic integrity verification, role-based access control, AI-assisted risk analysis, anomaly detection, and chain-of-custody validation using Flask and Python.
@@ -34,7 +34,7 @@ A full-stack restaurant ordering and management system developed using modern we
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 
@@ -54,7 +54,7 @@ Flask • Git • Docker • Jupyter Notebook • Tableau • Power BI
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning
 - Secure Software Engineering
@@ -63,9 +63,21 @@ Flask • Git • Docker • Jupyter Notebook • Tableau • Power BI
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 📍 Messina, Italy
 
 - LinkedIn: https://linkedin.com/in/your-link
 - GitHub: https://github.com/vidhyaharini0
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidhyaharini0&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhyaharini0&layout=compact&hide_border=true)
