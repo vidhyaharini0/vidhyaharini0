@@ -74,10 +74,10 @@ Flask • Git • Docker • Jupyter Notebook • Tableau • Power BI
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidhyaharini0&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidhyaharini0&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhyaharini0&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhyaharini0&layout=compact&theme=github_dark&hide_border=true)
