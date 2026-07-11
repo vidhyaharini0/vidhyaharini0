@@ -12,8 +12,9 @@ I enjoy designing intelligent systems that combine data-driven decision making w
 - Machine Learning
 - Natural Language Processing (NLP)
 - Data Science & Analytics
-- Secure Software Development
+- Cybersecurity
 - Digital Forensics
+- Secure Software Engineering
 - Database Systems
 
 ---
@@ -43,6 +44,15 @@ A Dockerized full-stack restaurant ordering and management web application featu
 **Databases:** MySQL • MongoDB • Neo4j • Redis • Cassandra
 
 **Frameworks & Tools:** Flask • Git • Docker • Jupyter Notebook • Tableau • Power BI
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Large Language Models (LLMs)
+- Secure Software Engineering
+- Cloud Computing
 
 ---
 
