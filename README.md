@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vidhya Harini 👋
 
-<!--
-**vidhyaharini0/vidhyaharini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Data Analysis student at the University of Messina, Italy.
 
-Here are some ideas to get you started:
+I'm passionate about applying Artificial Intelligence, Machine Learning, Natural Language Processing, Secure Software Development, and Data Analytics to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Data Science
+- Secure Software Development
+- Database Systems
+
+## Featured Projects
+
+🔹 DEICMS-SS
+Digital Evidence & Investigation Chain Management System implementing secure digital forensics, cryptographic integrity verification, AI-assisted risk analysis, and chain-of-custody validation.
+
+🔹 Brand Reputation Analysis
+Transformer-based sentiment and emotion analysis using NLP models.
+
+🔹 Database Performance Benchmarking
+Comparative evaluation of relational and NoSQL databases using large-scale workloads.
+
+📫 Email:
+vidhyaharini07@gmail.com
